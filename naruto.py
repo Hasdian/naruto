@@ -76,7 +76,7 @@ class Main(object):
 \x1b[0;33m[\x1b[1;97m•\x1b[0;33m]\x1b[0;37m Github   : Github.com/Hasdian
 \x1b[0;33m[\x1b[1;97m•\x1b[0;33m]\x1b[0;37m Facebook : Muhammad hasan hasdian id
 \x1b[0;37m≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
-""")
+"""
 		return banner
 	def cpdetect(self):
 		__data=input("[?] Masukan nama file: ")
