@@ -66,7 +66,7 @@ class Main(object):
 		self.name = name
 	def banner(self):
 		banner = f"""
-     print("""\x1b[0;31m   ______     __ __       __
+             ______     __ __       __
 \x1b[0;31m  / ____/____/ // / _____/ /__\x1b[0;31m|•| SELAMAT
 \x1b[0;31m / /   / ___/ // /_/ ___/ //_/\x1b[0;31m|•| MENGGUNAKAN
 \x1b[0;37m/ /___/ /  /__  __/ /__/ ,<   \x1b[0;37m|•| SEMOGA
